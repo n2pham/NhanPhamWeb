@@ -33,6 +33,6 @@ by Mom (while holding a stick)
 
 Relative Links
 [Relative Links](./index.md)
-For more details see [My website](https://n2pham.github.io/NhanPham.github.io/).
+For more details see [My website](https://n2pham.github.io/NhanPhamWeb/).
 ##### This Assignment
 - [x] Completed
