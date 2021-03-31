@@ -1,5 +1,5 @@
 # Welcome to Nhan's CSE 110 website
-
+[Go to Completion](##### This Assignment)
 ### Who am I?
 I am an international student from Vietnam and is a third year transfer from UC San Diego. My major is Computer Engineering and I am creating this website for CSE 110 lab 1.
 
@@ -15,6 +15,13 @@ I am an international student from Vietnam and is a third year transfer from UC 
 2. Watching movies and anime
 3. Eating good food
 
+##### Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
 ##### Favorite Quote
 
 > You better eat all your food
@@ -27,3 +34,5 @@ by Mom (while holding a stick)
 Relative Links
 [Relative Links](./index.md)
 For more details see [My website](https://n2pham.github.io/NhanPham.github.io/).
+##### This Assignment
+- [x] Completed
