@@ -1,5 +1,5 @@
 # Welcome to Nhan's CSE 110 website
-[Go to Completion](##### This Assignment)
+[Go to Completion](#This-Assignment)
 ### Who am I?
 I am an international student from Vietnam and is a third year transfer from UC San Diego. My major is Computer Engineering and I am creating this website for CSE 110 lab 1.
 
