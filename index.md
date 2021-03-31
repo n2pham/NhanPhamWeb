@@ -5,15 +5,15 @@ I am an international student from Vietnam and is a third year transfer from UC 
 
 ### Where have I been?
 - **Germany**
-- United States
-- _Thailand_
-- Japan
+- **United States**
+- **_Thailand_**
+- **Japan**
 
 ### Hobbies
 
-1. Working Out
-2. Watching movies and anime
-3. Eating good food
+1. _Working Out_
+2. _Watching movies and anime_
+3. _Eating good food_
 
 ##### Some basic Git commands are:
 ```
